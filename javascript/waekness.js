@@ -131,8 +131,8 @@ const { useState, useRef, useEffect, useLayoutEffect, createContext } = React;
         React.createElement("div", { className: appClass, style: screenStyle },
         React.createElement("section", { className: "container" },
         React.createElement("h1", null, "Hallo!"),
-        React.createElement("p", null, "Sie sind hier, weil sie neugierig auf meine schwächen sind"),
-        React.createElement("p", null, "und herausfinden möchten, ob ich welchen habe. Drücken sie den knopf, ich bin auch neugierig."),
+        React.createElement("p", null, "Sie sind hier, weil sie neugierig über meine schwächen sind"),
+        React.createElement("p", null, "und herausfinden möchten, ob ich welche habe. Drücken sie den knopf, ich bin auch neugierig."),
   
         React.createElement("button", {
           className: "debug-button",
